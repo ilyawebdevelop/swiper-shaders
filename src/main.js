@@ -15,7 +15,7 @@ const swiper = new Swiper('.swiper', {
   effect: 'gl',
   loop: true,
   gl: {
-    shader: 'random',
+    shader: 'dots',
   },
   navigation: {
     prevEl: '.swiper-button-prev',
